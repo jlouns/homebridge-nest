@@ -1,4 +1,4 @@
-# homebridge-nest
+# homebridge-nest-jlouns
 Nest plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 This repository contains the Nest plugin for homebridge that was previously bundled in the main `homebridge` repository.
@@ -6,7 +6,7 @@ This repository contains the Nest plugin for homebridge that was previously bund
 # Installation
 
 1. Install homebridge using: `npm install -g homebridge`
-2. Install this plugin using: `npm install -g homebridge-nest`
+2. Install this plugin using: `npm install -g homebridge-nest-jlouns`
 3. Update your configuration file. See `sample-config.json` snippet below.
 
 Until an alternative is determined (like Nest Weave which hasn't been released yet or setting up a website for generating tokens specifically for HomeBridge-Nest), you will have to setup an developer account for Nest.  It's a simple process and if you specify that it is for Individual, then you are auto approved (at least in my experience).
